@@ -28,14 +28,14 @@ global.ownername = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮�
 global.botname = 'Nimsara MD BOT'
 global.footer = 'NIMSARA MD '
 global.cap = '*Genarated By NIMSARA MD*'
-global.ig = 'VihangaBot-MD'
+global.ig = 'Nimsara-MD'
 global.region = 'Sri Lanka, Anuradhapura, Nochchiyagama'
 global.sc = 'https://github.com/nimsarar/VihangaBot-MD/edit/master/settings.js'
 global.myweb = 'https://chat.whatsapp.com/KGGILe5XWCc5DZp84NpxbI'
 global.packname = 'Nimsara Md Sticker Bot'
 global.author = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
 global.autobio = 'true'
-global.sessionName = 'session'
+global.sessionName = 'WFIxNDNCa3M='
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
