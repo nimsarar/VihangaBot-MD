@@ -13,13 +13,13 @@
 
   <p align="center">
 
-<img src="https://i.ibb.co/THTK67m/Vihanga-MD.png" alt="GIF" width="300" height="270"/>
+<img src="https://hb4alllink.herokuapp.com/1a9b0/file.jpg" alt="GIF" width="300" height="270"/>
 
 </p>
 
   <p align="center">
 
-<a href="#"><img title="VihangaMD" src="https://img.shields.io/badge/vihanga-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="NimsaraMD" src="https://img.shields.io/badge/Nimsara-Md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
       
 <p align="center">By Vihanga YT>| © | Reserved  </br> 
 </p>
